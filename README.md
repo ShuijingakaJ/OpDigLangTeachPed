@@ -1,7 +1,9 @@
 # Read me
-If you would like to be part of this project, you will need to 
-1. Read the detailed Description of the project and refer to the definitions of the terms that you are not yet familiar with in order to see whether you want to and can contribute by sharing a teaching method that has worked beautifully in your own academic context.
+If you are curious about this project, please feel invited to 
+read the detailed description. You can refer to the definitions of the terms to help you consolide the meaning of the concepts our projects hinges on. If then, you are interested in joining our project, please read the terms for our collaboration.
 
 # DETAILED DESCRIPTION OF THE PROJECT
 
 # DEFINITIONS
+
+# TERMS FOR COLLABORATION
